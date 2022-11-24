@@ -26,6 +26,7 @@ function GameSetup() {
     const currentValue = e.currentTarget.value;
     if (currentValue % 2 === 0) {
       setInvalidGridSize(false);
+      setGridSize(currentValue);
     } else {
       setInvalidGridSize(true);
     }

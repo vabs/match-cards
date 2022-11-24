@@ -37,6 +37,10 @@
   font-weight: bold;
   margin: 5px;
   padding: 5px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
 }
 
 .gameTitle__letterRotate {
