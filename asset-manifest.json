@@ -1,15 +1,15 @@
 {
-  "main.css": "/match-cards/static/css/main.cd93dfd7.chunk.css",
-  "main.js": "/match-cards/static/js/main.d0e90ffb.chunk.js",
-  "main.js.map": "/match-cards/static/js/main.d0e90ffb.chunk.js.map",
+  "main.css": "/match-cards/static/css/main.fb6132c4.chunk.css",
+  "main.js": "/match-cards/static/js/main.2508a1a0.chunk.js",
+  "main.js.map": "/match-cards/static/js/main.2508a1a0.chunk.js.map",
   "static/js/1.271d1efb.chunk.js": "/match-cards/static/js/1.271d1efb.chunk.js",
   "static/js/1.271d1efb.chunk.js.map": "/match-cards/static/js/1.271d1efb.chunk.js.map",
   "static/js/2.3736ce59.chunk.js": "/match-cards/static/js/2.3736ce59.chunk.js",
   "static/js/2.3736ce59.chunk.js.map": "/match-cards/static/js/2.3736ce59.chunk.js.map",
   "runtime~main.js": "/match-cards/static/js/runtime~main.7bb63e82.js",
   "runtime~main.js.map": "/match-cards/static/js/runtime~main.7bb63e82.js.map",
-  "static/css/main.cd93dfd7.chunk.css.map": "/match-cards/static/css/main.cd93dfd7.chunk.css.map",
+  "static/css/main.fb6132c4.chunk.css.map": "/match-cards/static/css/main.fb6132c4.chunk.css.map",
   "index.html": "/match-cards/index.html",
-  "precache-manifest.7a58974ce091dd9fb7d50e90132cf068.js": "/match-cards/precache-manifest.7a58974ce091dd9fb7d50e90132cf068.js",
+  "precache-manifest.202dc9e92a4a13b98c7b37c698f68597.js": "/match-cards/precache-manifest.202dc9e92a4a13b98c7b37c698f68597.js",
   "service-worker.js": "/match-cards/service-worker.js"
 }
